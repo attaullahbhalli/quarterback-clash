@@ -4,6 +4,8 @@
 
 With dynamic gameplay, quirky cheat keys, a leaderboard, and even a **boss key** to hide your screen from supervisors, this game blends fun mechanics with tongue-in-cheek design.
 
+![Home Page Screenshot](homepageDemo.jpg)
+![Game Page Screenshot](gamepageDemo.jpg)
 ---
 
 ## 🎮 Features
